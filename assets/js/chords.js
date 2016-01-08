@@ -1,12 +1,10 @@
 // All chords available to the user
 var availableChords = [
-  'Am',
-  'C',
-  'D',
-  'Em',
-  'G'
-];
-
+  'Amin',
+  'Cmaj',
+  'Dmaj',
+  'Emin',
+  'Gmaj' ]; 
 var tempAvailableChords = [
   {chordName: '', chordCategory: '', selected: false}
 ];
